@@ -141,4 +141,3 @@ This project is open-source and available under the MIT License.
 
 
 
-⭐ If you found this project useful, give it a star!
